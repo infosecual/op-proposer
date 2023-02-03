@@ -5,5 +5,4 @@ use (
 	./op-node
 	./op-proposer
 	./op-service
-	./op-signer
 )
